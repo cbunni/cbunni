@@ -1,16 +1,16 @@
-## Hi there 👋
+### <h1 align="center">cbunni (\   /)</h1>
 
-<!--
-**cbunni/cbunni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  * javascript enjoyer, currently learning C
+   <sup>~~i want to learn advanced rust but im too lazy~~</sup>
+  * i enjoy modding games
 
-Here are some ideas to get you started:
+## Public projects:
+```
+> ls
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+other/
+└── 📌 pinterest-viewer - a script that lets you download pintrest images without signing in
+```
+
+## Contact:
+ don't, please
