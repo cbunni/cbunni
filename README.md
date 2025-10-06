@@ -9,6 +9,7 @@
 > ls
 
 other/
+├── ⚙️ 11chan.org-scripts - the scripts for my website
 └── 📌 pinterest-viewer - a script that lets you download pintrest images without signing in
 ```
 
